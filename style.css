@@ -18,6 +18,7 @@ body {
 	color: white;
 }
 
-.form-group col-md-6 {
-	float: left;
+.contact-header {
+	margin: auto;
+	padding: 3px;
 }
