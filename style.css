@@ -2,7 +2,7 @@ body {
 	background-color: #80808042;
 }
 .col-md-6 {
-	background-color: rgb(230, 243, 230);
+	background-color: rgb(251, 253, 251);
 	float: left;
 	margin-left: 0;
 	padding: 5px;
@@ -16,4 +16,8 @@ body {
 
 #name {
 	color: white;
+}
+
+.form-group col-md-6 {
+	float: left;
 }
