@@ -21,4 +21,10 @@ body {
 .contact-header {
 	margin: auto;
 	padding: 3px;
+	color: rgb(26, 177, 139);
+}
+
+.btn-lg {
+	background-color: rgb(26, 177, 139);
+	border: 0;
 }
