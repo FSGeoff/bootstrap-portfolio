@@ -22,3 +22,10 @@ img {
 #spacer {
 	height: 100px;
 }
+
+#self {
+	color: white;
+	background-color: rgb(18, 131, 112);
+	font-family: serif;
+	font-size: 40px;
+}
