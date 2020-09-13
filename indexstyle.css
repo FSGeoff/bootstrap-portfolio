@@ -5,12 +5,15 @@ body {
 h1 {
 	font-size: 60px;
 	font-family: serif;
+	font-weight: 800;
 	color: rgb(18, 131, 112);
 }
+
 .col-md-7 {
 	background-color: ivory;
 	float: left;
 }
+
 img {
 	height: 250px;
 	width: 200px;
@@ -30,4 +33,5 @@ img {
 	background-color: rgb(18, 131, 112);
 	font-family: serif;
 	font-size: 40px;
+	font-weight: 800;
 }
