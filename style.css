@@ -28,3 +28,7 @@ body {
 	background-color: rgb(26, 177, 139);
 	border: 0;
 }
+
+#spacer-1 {
+	height: 100px;
+}
