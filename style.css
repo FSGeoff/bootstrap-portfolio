@@ -1,5 +1,5 @@
 body {
-	background-color: #80808042;
+	background-color: rgba(201, 201, 201, 0.801);
 }
 .col-md-6 {
 	background-color: rgb(251, 253, 251);
@@ -10,7 +10,7 @@ body {
 }
 .navbar-brand {
 	color: white;
-	background-color: rgba(12, 204, 156, 0.918);
+	background-color: rgb(18, 131, 112);
 	font-size: 2.5rem;
 }
 
@@ -21,11 +21,11 @@ body {
 .contact-header {
 	margin: auto;
 	padding: 3px;
-	color: rgb(26, 177, 139);
+	color: rgb(18, 131, 112);
 }
 
 .btn-lg {
-	background-color: rgb(26, 177, 139);
+	background-color: rgb(18, 131, 112);
 	border: 0;
 }
 
