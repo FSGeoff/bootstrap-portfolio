@@ -18,3 +18,7 @@ img {
 .nav-link {
 	float: right;
 }
+
+#spacer {
+	height: 100px;
+}
