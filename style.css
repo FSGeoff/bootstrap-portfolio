@@ -24,6 +24,8 @@ body {
 	margin: auto;
 	padding: 3px;
 	color: rgb(18, 131, 112);
+	font-family: serif;
+	font-weight: 800;
 }
 
 .btn-lg {
