@@ -4,6 +4,8 @@ body {
 
 h1 {
 	font-size: 60px;
+	font-family: serif;
+	color: rgb(18, 131, 112);
 }
 .col-md-7 {
 	background-color: ivory;
