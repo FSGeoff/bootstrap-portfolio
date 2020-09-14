@@ -38,6 +38,11 @@ h1 {
 	padding: 5px;
 }
 
+#navbarNav {
+	position: absolute;
+	right: 0;
+}
+
 #footer {
 	position: -webkit-sticky;
 	position: sticky;
