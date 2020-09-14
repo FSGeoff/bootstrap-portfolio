@@ -24,3 +24,10 @@ h1 {
 #self {
 	color: white;
 }
+.col-md-7 {
+	background-color: rgb(251, 253, 251);
+	float: left;
+	margin-left: 0;
+	padding: 5px;
+	border: ;
+}
