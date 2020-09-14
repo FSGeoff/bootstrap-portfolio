@@ -16,7 +16,9 @@ body {
 	font-family: serif;
 	font-weight: 800;
 }
-
+#input-info {
+	margin-left: 5px;
+}
 #name {
 	color: white;
 }
@@ -34,6 +36,10 @@ body {
 	border: 0;
 }
 
+#navbarNav {
+	position: absolute;
+	right: 0;
+}
 #spacer {
 	height: 100px;
 }
