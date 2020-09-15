@@ -44,6 +44,10 @@ img {
 #index-pic {
 	padding: 5px;
 }
+.text-wrap {
+	font-family: sans-serif;
+	text-align: justify;
+}
 
 .ftr-txt {
 	font-size: 7px;
