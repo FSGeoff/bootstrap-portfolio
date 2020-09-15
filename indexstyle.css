@@ -49,6 +49,15 @@ img {
 	padding: 5px;
 }
 
+.ftr-txt {
+	font-size: 7px;
+	float: right;
+	margin-top: 30px;
+	font-style: normal;
+	font-family: sans-serif;
+	color: rgb(228, 217, 217);
+}
+
 #footer {
 	position: -webkit-sticky;
 	position: sticky;
