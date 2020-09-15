@@ -1,13 +1,6 @@
 body {
 	background-color: rgba(201, 201, 201, 0.801);
 }
-.col-md-6 {
-	background-color: rgb(251, 253, 251);
-	float: left;
-	margin-left: 0;
-	padding: 5px;
-	border: ;
-}
 
 .navbar-brand {
 	color: white;
@@ -16,11 +9,25 @@ body {
 	font-family: serif;
 	font-weight: 800;
 }
-#input-info {
-	margin-left: 5px;
-}
 #name {
 	color: white;
+}
+
+#navbarNav {
+	position: absolute;
+	right: 0;
+}
+
+#spacer {
+	height: 100px;
+}
+
+.col-md-6 {
+	background-color: rgb(251, 253, 251);
+	float: left;
+	margin-left: 0;
+	padding: 5px;
+	border: ;
 }
 
 .contact-header {
@@ -31,17 +38,13 @@ body {
 	font-weight: 800;
 }
 
+#input-info {
+	margin-left: 5px;
+}
+
 .btn-lg {
 	background-color: rgb(18, 131, 112);
 	border: 0;
-}
-
-#navbarNav {
-	position: absolute;
-	right: 0;
-}
-#spacer {
-	height: 100px;
 }
 
 #footer {
@@ -53,3 +56,48 @@ body {
 	width: 100%;
 	background-color: #636c75;
 }
+
+/* .navbar-brand {
+	color: white;
+	background-color: rgb(18, 131, 112);
+	font-size: 40px;
+	font-family: serif;
+	font-weight: 800;
+} */
+/* #input-info {
+	margin-left: 5px;
+} */
+/* #name {
+	color: white;
+} */
+
+/* .contact-header {
+	margin: auto;
+	padding: 3px;
+	color: rgb(18, 131, 112);
+	font-family: serif;
+	font-weight: 800;
+} */
+
+/* .btn-lg {
+	background-color: rgb(18, 131, 112);
+	border: 0;
+} */
+
+/* #navbarNav {
+	position: absolute;
+	right: 0;
+} */
+/* #spacer {
+	height: 100px;
+} */
+
+/* #footer {
+	position: -webkit-sticky;
+	position: sticky;
+	left: 0;
+	bottom: 0;
+	height: 40px;
+	width: 100%;
+	background-color: #636c75;
+} */
