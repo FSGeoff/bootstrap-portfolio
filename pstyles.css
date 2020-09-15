@@ -4,6 +4,7 @@ body {
 
 #spacer-1 {
 	height: 100px;
+	clear: both;
 }
 h1 {
 	font-size: 60px;
@@ -34,8 +35,11 @@ h1 {
 #port-img {
 	height: 350px;
 	width: 350px;
+	padding: 8px;
+}
+
+#nix-pics {
 	float: left;
-	padding: 5px;
 }
 
 #navbarNav {
@@ -43,6 +47,13 @@ h1 {
 	right: 0;
 }
 
+.ftr-txt {
+	font-size: 7px;
+	float: right;
+	font-style: normal;
+	font-family: sans-serif;
+	color: rgb(228, 217, 217);
+}
 #footer {
 	position: -webkit-sticky;
 	position: sticky;
