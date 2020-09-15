@@ -1,5 +1,5 @@
 body {
-	background-color: rgba(201, 201, 201, 0.801);
+	background-color: #e7eaec;
 }
 
 h1 {
@@ -22,10 +22,6 @@ img {
 	width: 200px;
 	float: left;
 }
-/*  
-.nav-link {
-	float: right;
-} */
 
 #navbarNav {
 	position: absolute;
