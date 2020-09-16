@@ -14,4 +14,6 @@ After all pages were visually complete, I went back and added semantic elements 
 Also added a sticky footer to each page
 
 To make my code more legible I used a plug-in code formatter
+
+After all code was formatted I tested the application. It rendered well in a Chrome browser, a Safari Browser and on the iPhone XR in both browsers. When the size of the browsers was reduced the images stacked as required.
 -->
