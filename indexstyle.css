@@ -50,6 +50,39 @@ p {
 	font-size: 1em;
 }
 
+.hwk-box {
+	border: solid grey 2px;
+}
+
+.links-hdr {
+	text-align: center;
+	font-size: 40px;
+	color: rgb(123 204 190);
+}
+
+#anchor-1 {
+	text-align: left;
+	font-size: 20px;
+
+	margin: 5px;
+	padding: 5px;
+	border: 5px;
+}
+#anchor-2 {
+	text-align: left;
+	font-size: 20px;
+
+	margin: auto;
+	position: block;
+}
+#anchor-3 {
+	text-align: left;
+	font-size: 20px;
+
+	margin: auto;
+	position: block;
+}
+
 .ftr-txt {
 	font-size: 7px;
 	float: right;
