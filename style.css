@@ -42,6 +42,10 @@ p {
 	font-size: 1em;
 }
 
+#bio-text {
+	color: rgb(123 204 190);
+}
+
 #name {
 	color: white;
 }
